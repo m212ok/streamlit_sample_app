@@ -1,7 +1,4 @@
 # STREAMLIT SAMPLE APP
-streamlit
 cmake==3.26.4
-dlib==19.24.2
-Pillow==9.4.0
 face_recognition @ git+https://github.com/thetoby9944/face_recognition
 
